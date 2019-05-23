@@ -1,0 +1,7 @@
+[package]
+name = "the_slice_type"
+version = "0.1.0"
+authors = ["Jeff Goldschrafe <jeff@holyhandgrenade.org>"]
+edition = "2018"
+
+[dependencies]

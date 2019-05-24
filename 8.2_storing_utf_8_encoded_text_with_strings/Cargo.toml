@@ -1,0 +1,7 @@
+[package]
+name = "storing_utf_8_encoded_text_with_strings"
+version = "0.1.0"
+authors = ["Jeff Goldschrafe <jeff@holyhandgrenade.org>"]
+edition = "2018"
+
+[dependencies]

@@ -1,0 +1,7 @@
+[package]
+name = "concise_flow_control_with_if_let"
+version = "0.1.0"
+authors = ["Jeff Goldschrafe <jeff@holyhandgrenade.org>"]
+edition = "2018"
+
+[dependencies]

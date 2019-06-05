@@ -1,0 +1,7 @@
+[package]
+name = "accepting_command_line_arguments"
+version = "0.1.0"
+authors = ["Jeff Goldschrafe <jeff@rabb.it>"]
+edition = "2018"
+
+[dependencies]

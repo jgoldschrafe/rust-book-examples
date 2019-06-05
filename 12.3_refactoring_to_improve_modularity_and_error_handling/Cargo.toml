@@ -1,0 +1,7 @@
+[package]
+name = "refactoring_to_improve_modularity_and_error_handling"
+version = "0.1.0"
+authors = ["Jeff Goldschrafe <jeff@rabb.it>"]
+edition = "2018"
+
+[dependencies]
